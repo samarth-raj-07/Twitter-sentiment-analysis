@@ -1,9 +1,7 @@
 # NLP_Twitter_Sentiment_Analysis
 NLP Twitter Sentiment Analysis (Machine Learning)
 
-Completed Coursera Guided Project by Suhaimi William Chan
-
-Instructor: Ryan Ahmed, Ph.D.
+a capstone project completed with the help of prof.Ryan Ahmed..
 
 Project Structure
 
