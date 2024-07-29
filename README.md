@@ -1,7 +1,6 @@
 # NLP_Twitter_Sentiment_Analysis
 NLP Twitter Sentiment Analysis (Machine Learning)
 
-a capstone project completed with the help of prof.Ryan Ahmed..
 
 Project Structure
 
